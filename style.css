@@ -1,0 +1,10 @@
+#map { height: 100vh; } /*viewport height*/
+
+#wrapper{
+    position: fixed;
+    bottom: 100px;
+    z-index: 10000;
+    right: 300px;
+    background-color: greenyellow;
+
+}
