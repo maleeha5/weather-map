@@ -82,7 +82,7 @@ function renderWeatherData(data){
 /*
     ecmascript is same,
 
-    fetch ethod is used to make an ajax call that is asynchronous in nature to the api  :  when the call is happening , until then browser does some other operations 
+    fetch method is used to make an ajax call that is asynchronous in nature to the api  :  when the call is happening , until then browser does some other operations 
 
     javascript is asynchronous in nature , identifies wht it has to do and delegates tasks to other respective things
 
